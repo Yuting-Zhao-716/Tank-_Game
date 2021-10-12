@@ -113,7 +113,7 @@ public class GameMain extends GameEngine {
 			dialog.setVisible(true);
 		}
 		else if (source == aboutItem) {
-			JOptionPane.showMessageDialog(mFrame,"Developer Group:\nJing BAI & Yuting ZHAO,Any question please contact 02041819475","About", JOptionPane.INFORMATION_MESSAGE);
+			JOptionPane.showMessageDialog(mFrame,"Developer Group:\nJing BAI & Yuting ZHAO","About", JOptionPane.INFORMATION_MESSAGE);
 		}
 	}
 
